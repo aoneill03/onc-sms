@@ -15,4 +15,4 @@ gradle build
 java -jar build/libs/onc-sms-service-0.1.0.jar
 ```
 
-In web browser go to http://localhost:8080/api/send?message=test
+In web browser go to http://localhost:8080/send?msg=test
